@@ -67,7 +67,7 @@ Make sure you have Node.js and npm installed on your system.
 git clone https://github.com/princeshrivastava0/prince-shrivastava-portfolio.git
 ```
 
-### Navigate to the projecct directory:
+### Navigate to the project directory:
 
 ```bash
 cd prince-shrivastava-portfolio
