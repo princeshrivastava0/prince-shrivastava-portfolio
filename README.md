@@ -1,40 +1,114 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
+# Prince Shrivastava - Personal Portfolio
 
-## Getting Started
+A responsive personal portfolio website built with Next.js to showcase my skills, projects, resume, and web development experience.
 
-First, run the development server:
+## 🌐 Live Website
+
+[Visit My Portfolio](https://princeshrivastava.vercel.app)
+
+## ✨ Features
+
+- 👋 Personal introduction and profile
+- 👨‍💻 About section with technical skills
+- 📂 Portfolio section for showcasing projects
+- 📄 Resume download
+- 📬 Functional contact form
+- ✉️ Form Submission and e-mail delivery through Web3Forms
+- 🔗 Social media links
+- ⌨️ Typewriter text animation
+- ⏳ Loading screen
+- 📊 Scroll progress indicator
+- ✅ Contact form success modal
+- 📱 Responsive user interface
+
+## 🛠️ Tech Stack
+
+- **Next.js** 15.1.6
+- **React** 18.3.1
+- **JavaScript**
+- **Bootstrap** 5.3.3
+- **React Bootstrap** 2.10.9
+- **Bootstrap Icons** 1.11.3
+- **React Google reCAPTCHA** 3.1.0
+- **Typewriter Effect** 2.21.0
+- **Vercel**
+
+## 📄 Website Sections
+
+### Home
+
+The homepage introduces me as a Web Developer and provides quick access to my portfolio and resume.
+
+### About
+
+Provides information about my background, web development experience, and technical skills.
+
+### Portfolio
+
+A dedicated section designed to showcase selected projects and development work.
+
+### Contact
+
+Includes a contact form that allows visitors to send enquiries directly to my email through Web3Forms.
+
+### Footer
+
+Provides links to my GitHub, LinkedIn, YouTube, and Instagram profiles.
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+Make sure you have Node.js and npm installed on your system.
+
+### Clone the repository:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/princeshrivastava0/prince-shrivastava-portfolio.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Navigate to the projecct directory:
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+```bash
+cd prince-shrivastava-portfolio
+```
 
-[API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+### Install dependencies:
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) instead of React pages.
+```bash
+npm install
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### Run the development server:
+```bash
+npm run dev
+```
+### Open http://localhost:3000 in your browser.
 
-## Learn More
+## 📦 Production Build
 
-To learn more about Next.js, take a look at the following resources:
+### Create a production build:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn-pages-router) - an interactive Next.js tutorial.
+```bash
+npm run build
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Start the production server:
 
-## Deploy on Vercel
+```bash
+npm start
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## ☁️ Deployment
+The website is deployed on Vercel.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
+## 👨‍💻 Developer
+**Prince Shrivastava**
+
+- **GitHub:** [@princeshrivastava0](https://github.com/princeshrivastava0)
+- **Instagram:** [@princeshrivastava.dev](https://www.instagram.com/princeshrivastava.dev)
+- **YouTube:** [@princeshrivastava](https://www.youtube.com/@princeshrivastava)
+- **LinkedIn:** [Prince Shrivastava](https://www.linkedin.com/in/prince-shrivastava/)
+
+# Built with ❤️ by Prince Shrivastava
+
